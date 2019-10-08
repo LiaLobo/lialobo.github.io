@@ -29,3 +29,33 @@ nav a:hover{
     font-weight: 500;
     color: #7e459b;
 }
+
+.tamanho-texto-titulos{
+    font-size: 1.1rem;
+}
+
+.tamanho-texto-sobre{
+    font-size: 1rem;
+}
+
+.font-icones{
+    font-size: 12px;
+}
+
+.tamanho-icones{
+    font-size: 1.7rem;
+}
+
+.tamanho-card{
+    width: 18rem;
+}
+
+.imagem-cards{
+    object-fit: cover;
+    object-position: top; 
+    height: 40vh;
+}
+
+footer small span a{
+    color: #aa5ecf;
+}
